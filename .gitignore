@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+reports/*
+!reports/.gitkeep
+.venv/
+venv/
+.env
+*.pak
+*.ucas
+*.utoc
+*.bnk
+*.wem
+*.pck
+*.ogg
+*.wav
+*.mp3
+*.flac
